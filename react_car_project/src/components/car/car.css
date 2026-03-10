@@ -1,0 +1,15 @@
+.car-box{
+    border: solid 1px;
+    float: left;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+.button{
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+}

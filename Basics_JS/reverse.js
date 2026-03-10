@@ -152,15 +152,15 @@
 
 
 //         Write a function in JavaScript that finds the second highest number in an array of numbers.
-function secLarge(array){
-let largest=array[0]
-let secLargest=[]
-for(let i=0;i<array.length;i++){
-    if(largest<array[i]){
-        secLargest=largest
-        largest=array[i]
-    }
-}
-console.log(secLargest)
-}
-secLarge([1,2,5,3])
+// function secLarge(array){
+// let largest=array[0]
+// let secLargest=[]
+// for(let i=0;i<array.length;i++){
+//     if(largest<array[i]){
+//         secLargest=largest
+//         largest=array[i]
+//     }
+// }
+// console.log(secLargest)
+// }
+// secLarge([1,2,5,3])
